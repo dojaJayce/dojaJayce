@@ -1,4 +1,4 @@
-- 👋 hi, i’m @dojaJayce !
+- 👋 hi, i’m Jayce !
 - 👀 i’m interested in cooking.
 - 🌱 i’m currently learning programminh
 - 💞️ i like swimming
